@@ -1,0 +1,25 @@
+{
+  "coffee": "The campus coffee bar is open from 8 AM to 5 PM.",
+  "admissions": "You can contact the admissions office about admissions.",
+  "courses": [
+    "We offer a variety of courses. Could you please clarify your area of interest?",
+    "Are you looking for undergraduate or postgraduate courses?"
+  ],
+  "undergraduate": [
+    "Poppleton University offers a variety of undergraduate programs including Arts, Computer Science, and BBA.",
+    "To explore all undergraduate courses, visit our official university website."
+  ],
+  "postgraduate": [
+    "Poppleton University offers a variety of postgraduate programs including MBA, AI, and Data Science.",
+    "Visit Poppleton University's website to explore all postgraduate courses."
+  ],
+  "library": "The library is open from 9 AM to 9 PM on weekdays.",
+  "default": [
+    "I'm not sure about that, but I can help you with other questions!",
+    "That's an interesting question, let me think about it.",
+    "I don't have the answer to that, but I'm here to help!",
+    "Can you please rephrase your question?"
+  ]
+}
+
+
